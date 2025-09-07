@@ -10,6 +10,4 @@ can i check fastforward mergge now from testbranc2 and not changing anything in 
 #this is first commit after listneing to rebase concept.
 
 #updating new line in master branch to update in master to check rebase
-#commmit again'''
-
-test stash once.
+#commmit again
